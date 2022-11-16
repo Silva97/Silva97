@@ -1,18 +1,51 @@
-# Welcome!
+# Hello!
 
-I am just a brazilian programmer. :blush:
+I like study about low level and information security. :blush:
 
 * [LinkedIn](https://www.linkedin.com/in/lf337/)
 * [Twitter](https://twitter.com/Vilas_79)
 
-# Bem-vindo!
+# Oi!
 
-Sou apenas um programador brasileiro. :blush:  
-Se quiser ver material em português que já produzi, dá uma olhada nos links abaixo:
+Eu gosto de estudar sobre baixo nível e segurança da informação. :blush:  
+
+Se quiser ver conteúdo em português que já produzi, dá uma olhada nos links abaixo:
 
 * [Medium](https://freedev.medium.com/)
 * [Livro de Assembly x86 e x86-64](https://mentebinaria.gitbook.io/assembly/)
 * [Canal no YouTube](https://www.youtube.com/channel/UCAJfpf2x8OKgXvYyDioQoNg)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Silva97&theme=monokai)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Silva97&theme=monokai)
+# PGP public key
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBF3qYvkBCADUlYeaXpsOppVrakbMdeSnkGqJ8Ug4trINXzzBPZ9EhMWsQElC
+BiYC4Jn6Aajv97x4QcLyhsfuUPaxMa8hQqCR8J4Dvj6ZLJIV8kKOxO67h9MxFApu
+jjnQhPom/+QtfW+ohD89AER+iZp5HjuBU+aD04gRb8Sy1PJpJQ8f9YsKusYV6wlt
+FVJ92w1WqahFqRu5yKudgGSXnp6hyyM2dtkOoGvMIfbh1/qA5iK2IJkZRWmAs2wf
+B7Ip226KzLe1OnQUmb27+u2NsX5vdyMfOa4K98hzajPIlPP3BUGseGXCRCYf2Bx9
+3L8kXFGUWV3OtcSr/SP4P2Em5S7DoArGxN2ZABEBAAG0J0x1aXogRmVsaXBlIDxm
+ZWxpcGUuc2lsdmEzMzdAeWFob28uY29tPokBVAQTAQgAPhYhBH68+s7b7v7qR3H7
+n+6ziTD3TxkRBQJd6mL5AhsDBQkYdO13BQsJCAcCBhUKCQgLAgQWAgMBAh4BAheA
+AAoJEO6ziTD3TxkRR+sH/3b7+ddnFtCfX9FL26X/dZAvvCrYK8vvv6EdFLVT0+VY
+8J5baEPjQpd9DLm7p0X23mPUgtMmP2cq2qe+4NPFVxVO5+FgcdcHtTUGnbSEmYwl
+w4D+15dq8v/1b4wNmB2FAneG968qq/KqJARFZFlZlUwvuGRw9lHP0EQedXtd4uPt
+ACb1ZRpT+wWXbC41pnt3X5528g67xLJNeYS06ROtNKvuUhvbxD04zgcGCxDC1Z0p
+T5P1z+LNRfcHdLF30Lc2aU33m/pQ4uFPhNoEP8WYbT4dpHTX7+zzds7JGmuUQYE8
+SpezKxl7ka40sXHOHB5am6DYsv6JW20pLrbtCaSHDNW5AQ0EXepi+QEIAL+XXshJ
+sDU89BTc2QSURLkGwOXe8ItIQIIfvxjZQ9seCOO2D62PxDo5cDwXRXp8zL8cmdba
+7nUYDj4sslCD9XTYvkZxw+GvaivXwqEtMk6QE4vpqze9JhZHisOQCFCz50Dd58i+
+c/G+3uJOWlw2CtGwqMoTSTjIviXHVHTyflmKw8JaGEnu7lc59ywGtVzCpJEGyIIV
+yENe03uDkTUhM7pHnIpb5U1EZF+f5PpVDLGFeq6jjMcXp/Jys7KiEuD/tg/yQbBB
+tmGdJSVfsUP2knleLTPUChsFRZU5RxH5ZOafhEi0BTPCP1csnUyVBbUHkEP4Mb03
+TgZm5oUoPvlcfOkAEQEAAYkBPAQYAQgAJhYhBH68+s7b7v7qR3H7n+6ziTD3TxkR
+BQJd6mL5AhsMBQkYdO13AAoJEO6ziTD3TxkRz28H/jPc5le7si0vrPAOSfmoT5hP
+R7T5EliUR3g2Qrerm4XjNN3sY0kij2A3V43EFtcougiStCXy4SgtSRIGf2aah8pa
+R7Xx+BNeHw5xn7QYyRZRL4AaBFIJyidZvupdTo/KbGt+0wtX3Ru51p2Rx4mAUi0u
+NhVlkbyR0EFRVkxgpbS4cUcDWc8eg0WVJUlYw/dGvnE7vM9aVN2dfG8Rm/CWn9Sp
+F6p6O67D67RliytD7rqbL0nCzPYORAsAai/BE8ewQseGUMkYbsUPS0Br2nS9x58k
+rUfhe5DDxpIyas1PhMPMepMojDs6I9PlJtzm1ucPqkmeo2y57fiYJ5bbpE7pnVU=
+=j26S
+-----END PGP PUBLIC KEY BLOCK-----
+```
