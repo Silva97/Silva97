@@ -2,8 +2,9 @@
 
 I like study about low level and information security. :blush:
 
-* [LinkedIn](https://www.linkedin.com/in/lf337/)
+* [LinkedIn](https://www.linkedin.com/in/silva97/)
 * [Twitter](https://twitter.com/Vilas_79)
+* [Instagram](https://www.instagram.com/fsilva337/)
 
 # Oi!
 
@@ -12,8 +13,8 @@ Eu gosto de estudar sobre baixo nível e segurança da informação. :blush:
 Se quiser ver conteúdo em português que já produzi, dá uma olhada nos links abaixo:
 
 * [Medium](https://freedev.medium.com/)
+* [Canal no YouTube](https://www.youtube.com/@silva97)
 * [Livro de Assembly x86 e x86-64](https://mentebinaria.gitbook.io/assembly/)
-* [Canal no YouTube](https://www.youtube.com/channel/UCAJfpf2x8OKgXvYyDioQoNg)
 
 # PGP public key
 
