@@ -10,13 +10,16 @@ I like study about low level and information security. :blush:
 * [Twitter](https://twitter.com/Vilas_79)
 * [Instagram](https://www.instagram.com/fsilva337/)
 * [Facebook](https://www.facebook.com/B4.0E.B0.48.CD.10.B0.69.CD.10.C3)
-* [Hack The Box's profile](https://app.hackthebox.com/profile/311973)
+* [Hack The Box profile](https://app.hackthebox.com/profile/311973)
+* [CodersRank profile](https://profile.codersrank.io/user/silva97)
 
 If you want to see content in Portuguese that I created, see the links below:
 
 * [Medium](https://freedev.medium.com/)
 * [YouTube's channel](https://www.youtube.com/@silva97)
 * [book about x86 and x86-64 Assembly](https://mentebinaria.gitbook.io/assembly/)
+
+![Skill chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=silva97)
 
 # PGP public key
 
