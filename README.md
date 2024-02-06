@@ -13,13 +13,12 @@ I like study about low level and information security. :blush:
 * [Hack The Box profile](https://app.hackthebox.com/profile/311973)
 * [CodersRank profile](https://profile.codersrank.io/user/silva97)
 
-If you want to see content in Portuguese that I created, see the links below:
+If you want to see content in Portuguese that I have created, see the links below:
 
-* [Medium](https://freedev.medium.com/)
-* [YouTube's channel](https://www.youtube.com/@silva97)
-* [book about x86 and x86-64 Assembly](https://mentebinaria.gitbook.io/assembly/)
-
-![Skill chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=silva97)
+* [Meu blog](https://blog.freedev.com.br/)
+* [Meu canal no YouTube](https://www.youtube.com/@silva97)
+* [Livro sobre Assembly x86 e x86-64](https://mentebinaria.gitbook.io/assembly/)
+* [Introdução ao Baixo Nível - Fundamentos de arquitetura x86-64, assembly e muito mais](https://www.youtube.com/watch?v=E7TEz60UA90)
 
 # PGP public key
 
