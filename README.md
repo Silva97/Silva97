@@ -18,6 +18,7 @@ If you want to see content in Portuguese that I have created, see the links belo
 * [Meu blog](https://blog.freedev.com.br/)
 * [Meu canal no YouTube](https://www.youtube.com/@silva97)
 * [Livro sobre Assembly x86 e x86-64](https://mentebinaria.gitbook.io/assembly/)
+* [Livro sobre Web Security](https://websec.freedev.com.br/)
 * [Introdução ao Baixo Nível - Fundamentos de arquitetura x86-64, assembly e muito mais](https://www.youtube.com/watch?v=E7TEz60UA90)
 
 # PGP public key
