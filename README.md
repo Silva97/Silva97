@@ -8,12 +8,10 @@ I like study about low level and information security. :blush:
 
 * [LinkedIn](https://www.linkedin.com/in/silva97/)
 * [Twitter](https://twitter.com/Vilas_79)
-* [Instagram](https://www.instagram.com/fsilva337/)
-* [Facebook](https://www.facebook.com/B4.0E.B0.48.CD.10.B0.69.CD.10.C3)
 * [Hack The Box profile](https://app.hackthebox.com/profile/311973)
 * [CodersRank profile](https://profile.codersrank.io/user/silva97)
 
-If you want to see content in Portuguese that I have created, see the links below:
+If you wanna see content in Portuguese that I have written, see the links below:
 
 * [Meu blog](https://blog.freedev.com.br/)
 * [Meu canal no YouTube](https://www.youtube.com/@silva97)
