@@ -7,7 +7,6 @@
 I like study about low level and information security. :blush:
 
 * [LinkedIn](https://www.linkedin.com/in/silva97/)
-* [Twitter](https://twitter.com/Vilas_79)
 * [Hack The Box profile](https://app.hackthebox.com/profile/311973)
 * [CodersRank profile](https://profile.codersrank.io/user/silva97)
 
